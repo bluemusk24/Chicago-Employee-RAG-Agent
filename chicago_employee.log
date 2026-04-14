@@ -1,0 +1,374 @@
+2026-04-09 21:02:07.276 | INFO     | __main__:main:187 - Starting Chicago Employee RAG Agent...
+2026-04-09 21:06:54.985 | INFO     | __main__:run_agent:136 - Running agent for query: List some investigators in the Chicago Police department
+2026-04-09 21:07:24.143 | INFO     | __main__:run_agent:139 - Agent response: Here are some investigators (specifically detectives) in the **Chicago Police Department**, based on verified city employee records:
+
+- **ADAMS, TIMOTHY J**  
+  Job Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-Time: Yes  
+  Annual Salary: $144,792  
+
+- **ALEXANDER, ROSS J**  
+  Job Title: Police Officer (Assigned as Evidence Technician)  
+  Department: Chicago Police Department  
+  Full-Time: Yes  
+  Annual Salary: $128,964  
+
+- **AL FARAH, TENA A**  
+  Job Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-Time: Yes  
+  Annual Salary: $131,448  
+
+- **AIKIN JR, LAWRENCE J**  
+  Job Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-Time: Yes  
+  Annual Salary: $144,792  
+
+- **ANDREWS, JENNY D**  
+  Job Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-Time: Yes  
+  Annual Salary: $127,230  
+
+- **ANDERSON, DEBRA L**  
+  Job Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-Time: Yes  
+  Annual Salary: $140,454  
+
+- **ALECRIM COLACO RAMOS, CARLA**  
+  Job Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+
+Note: All listed individuals are sworn police officers assigned to detective or investigative duties within the Chicago Police Department. Let me know if you need additional filtering (e.g., by unit, rank, or area).
+2026-04-09 21:08:56.923 | INFO     | __main__:query_endpoint:154 - Received query: List some investigators in the Chicago Police department
+2026-04-09 21:08:56.926 | INFO     | __main__:run_agent:136 - Running agent for query: List some investigators in the Chicago Police department
+2026-04-09 21:09:37.135 | INFO     | __main__:run_agent:139 - Agent response: Here are some investigators (specifically, detectives or detective-level roles) in the **Chicago Police Department**, based on the data retrieved:
+
+- **AL FARAH, TENA A**  
+  - Job Title: Police Officer (Assigned as Detective)  
+  - Department: Chicago Police Department  
+  - Full-Time: Yes  
+  - Annual Salary: $131,448  
+
+- **ALEXANDER, ROSS J**  
+  - Job Title: Police Officer (Assigned as Evidence Technician)  
+  - Department: Chicago Police Department  
+  - Full-Time: Yes  
+  - Annual Salary: $128,964  
+
+- **ADAMS, TIMOTHY J**  
+  - Job Title: Police Officer (Assigned as Detective)  
+  - Department: Chicago Police Department  
+  - Full-Time: Yes  
+  - Annual Salary: $144,792  
+
+- **AIKIN JR, LAWRENCE J**  
+  - Job Title: Police Officer (Assigned as Detective)  
+  - Department: Chicago Police Department  
+  - Full-Time: Yes  
+  - Annual Salary: $144,792  
+
+- **AARON, KARINA**  
+  - Job Title: Police Officer (Assigned as Detective)  
+  - Department: Chicago Police Department  
+  - Full-Time: Yes  
+  - Annual Salary: $140,454  
+
+Note: The term “investigator” in this context corresponds to roles like *Detective* or *Evidence Technician* within the CPD. Let me know if you’d like filtering by unit, rank, or other criteria.
+2026-04-09 21:13:25.861 | INFO     | __main__:query_endpoint:154 - Received query: List some investigators in the Chicago Police department
+2026-04-09 21:13:25.874 | INFO     | __main__:run_agent:136 - Running agent for query: List some investigators in the Chicago Police department
+2026-04-09 21:13:57.180 | INFO     | __main__:run_agent:139 - Agent response: Here are several individuals serving as investigators within the **Chicago Police Department**, based on verified city employee records:
+
+- **ALBERT, DONNA**  
+  Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-time: Yes  
+  Annual Salary: $144,792  
+
+- **ANDERSON, COREY A**  
+  Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-time: Yes  
+  Annual Salary: $144,792  
+
+- **ADAMS, TIMOTHY J**  
+  Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-time: Yes  
+  Annual Salary: $144,792  
+
+- **AIKIN JR, LAWRENCE J**  
+  Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-time: Yes  
+  Annual Salary: $144,792  
+
+- **AARON, KARINA**  
+  Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-time: Yes  
+  Annual Salary: $140,454  
+
+- **AL FARAH, TENA A**  
+  Title: Police Officer (Assigned as Detective)  
+  Department: Chicago Police Department  
+  Full-time: Yes  
+  Annual Salary: $131,448  
+
+- **ALEXANDER, ROSS J**  
+  Title: Police Officer (Assigned as Evidence Technician)  
+  Department: Chicago Police Department  
+  Full-time: Yes  
+  Annual Salary: $128,964  
+
+Note: The Chicago Police Department often designates sworn officers with detective titles or investigative assignments. Some individuals may hold roles like “Evidence Technician,” which serve investigative functions. Let me know if you'd like to filter by unit, assignment, or other criteria.
+2026-04-09 23:01:52.133 | INFO     | __main__:main:187 - Starting Chicago Employee RAG Agent...
+2026-04-09 23:31:48.787 | INFO     | __main__:query_endpoint:154 - Received query: List 2 investigators in Chicago
+2026-04-09 23:31:48.815 | INFO     | __main__:run_agent:136 - Running agent for query: List 2 investigators in Chicago
+2026-04-09 23:32:32.747 | INFO     | __main__:run_agent:139 - Agent response: Here are two investigators in Chicago:
+
+1. **VILMA R ALICEA**  
+   - **Job Title:** SUPERVISING DISEASE CONTROL INVESTIGATOR  
+   - **Department:** CHICAGO DEPARTMENT OF PUBLIC HEALTH  
+   - **Full/Part Time:** Full-time  
+   - **Annual Salary:** $119,100  
+
+2. **DAILHA ACEVEDO**  
+   - **Job Title:** COMMUNICABLE DISEASE CONTROL INVESTIGATOR II  
+   - **Department:** CHICAGO DEPARTMENT OF PUBLIC HEALTH  
+   - **Full/Part Time:** Full-time  
+   - **Annual Salary:** $108,576  
+
+Let me know if you'd like investigators from a different department or with specific responsibilities.
+2026-04-09 23:48:04.899 | INFO     | __main__:run_agent:136 - Running agent for query: Give me firefighters in Chicago
+2026-04-09 23:48:44.652 | INFO     | __main__:run_agent:139 - Agent response: Here are the firefighters in Chicago from the data retrieved across all three search tools:
+
+- **ACOSTA, GUSTAVO**  
+  - Job Title: FIREFIGHTER-EMT  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $117,996  
+
+- **ANGON, CRUZ A**  
+  - Job Title: FIREFIGHTER-EMT  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $117,996  
+
+- **ANTROBUS, ERIC**  
+  - Job Title: FIREFIGHTER (PER ARBITRATORS AWARD)-EMT  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $145,878  
+
+- **ALGAS, JONATHAN T**  
+  - Job Title: FIREFIGHTER-EMT  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes (not specified, but standard for Chicago Fire Department)  
+  - Annual Salary: Not listed in dense_search  
+
+- **AMBROZIAK, AARON J**  
+  - Job Title: FIREFIGHTER/PARAMEDIC  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: Not listed in dense_search  
+
+- **ANSIER, MICHAEL A**  
+  - Job Title: FIREFIGHTER-EMT  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $126,384  
+
+- **ALICEA, MATHEW A**  
+  - Job Title: FIREFIGHTER-EMT (RECRUIT)  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $74,526  
+
+- **ALLEN, MICHAEL J**  
+  - Job Title: PARAMEDIC I/C  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $141,864  
+
+- **ALVAREZ, MARK A**  
+  - Job Title: PARAMEDIC  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $105,906  
+
+- **ALLEN, JUSTIN J**  
+  - Job Title: FIREFIGHTER-EMT (RECRUIT)  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $95,982  
+
+- **ALLEN, CALVIN F**  
+  - Job Title: FIREFIGHTER-EMT (RECRUIT)  
+  - Department: Chicago Fire Department  
+  - Full-time: Yes  
+  - Annual Salary: $90,816  
+
+Let me know if you’d like to filter by specific subroles (e.g., only *recruits*, or only those with *paramedic* credentials).
+2026-04-09 23:56:41.570 | INFO     | __main__:run_agent:136 - Running agent for query: List some firefighters in Chicago
+2026-04-09 23:57:40.470 | INFO     | __main__:run_agent:139 - Agent response: Here are several firefighters in the Chicago Fire Department:
+
+- **AGOSTINELLI, MICHAEL A**  
+  Job Title: Firefighter (Per Arbitrators Award)-EMT  
+  Department: Chicago Fire Department  
+  Full-Time | Salary: $145,878  
+
+- **ANTROBUS, ERIC**  
+  Job Title: Firefighter (Per Arbitrators Award)-EMT  
+  Department: Chicago Fire Department  
+  Full-Time | Salary: $145,878  
+
+- **ALICEA, MATHEW A**  
+  Job Title: Firefighter-EMT (Recruit)  
+  Department: Chicago Fire Department  
+  Full-Time | Salary: $74,526  
+
+- **ADAMSKI, JERRY J**  
+  Job Title: Firefighter-EMT  
+  Department: Chicago Fire Department  
+  Full-Time | Salary: $122,136  
+
+- **ALLEN, CALVIN F**  
+  Job Title: Firefighter-EMT (Recruit)  
+  Department: Chicago Fire Department  
+  Full-Time | Salary: $90,816  
+
+- **ALLEN, MICHAEL J**  
+  Job Title: Paramedic I/C  
+  Department: Chicago Fire Department  
+  Full-Time | Salary: $141,864  
+
+- **ALVAREZ, MARK A**  
+  Job Title: Paramedic  
+  Department: Chicago Fire Department  
+  Full-Time | Salary: $105,906  
+
+- **AHEARN, ISA A**  
+  Job Title: Paramedic  
+  Department: Chicago Fire Department  
+  Full-Time | Salary: $74,526  
+
+Note: Some roles like *Paramedic* and *Paramedic I/C* are related to firefighting and emergency medical services within the same department. Let me know if you'd like to filter by rank, recruit status, or other criteria.
+2026-04-10 09:13:46.303 | INFO     | __main__:main:187 - Starting Chicago Employee RAG Agent...
+2026-04-10 09:19:15.823 | INFO     | __main__:run_agent:136 - Running agent for query: How many police officers are Chicago 
+2026-04-10 09:19:51.120 | INFO     | __main__:run_agent:139 - Agent response: The tools returned only sample individual employee records—not the total number of police officers in Chicago.
+
+While the results show multiple Chicago Police Department employees with job titles like “POLICE OFFICER” or “POLICE OFFICER (ASSIGNED AS DETECTIVE)”, they represent a subset of records, not a full count.
+
+To determine the **total number of police officers**, the query would need to be handled by aggregating across the entire dataset (e.g., via a count query in the underlying database), which is beyond the scope of the current retrieval tools.
+
+However, according to publicly reported figures (not from these tools), the Chicago Police Department typically employs **approximately 11,000–12,000 sworn police officers**, as of recent years (e.g., ~11,700 in 2023–2024 reports).
+
+For a precise, up-to-date official count, consult the City of Chicago’s official annual budget documents or the CPD’s annual report.
+
+Let me know if you’d like help retrieving detailed breakdowns (e.g., by rank, assignment, or salary range).
+2026-04-10 09:20:56.925 | INFO     | __main__:run_agent:136 - Running agent for query: List the name of some individuals in the police department
+2026-04-10 09:21:22.945 | INFO     | __main__:run_agent:139 - Agent response: Here are some individuals in the Chicago Police Department:
+
+- **APORONGAO, ALAIN** – Police Officer – Full-time – Annual Salary: $115,158  
+- **ACCARDO, JENNIFER A** – Police Officer – Full-time – Annual Salary: $123,576  
+- **AQUINO-BERGMAN, SABRINA** – Police Officer – Full-time – Annual Salary: $105,906  
+- **ALEXANDER, ROSS J** – Police Officer (Assigned as Evidence Technician) – Full-time – Annual Salary: $128,964  
+- **ALLEN, REGAN J** – Sergeant – Full-time – Annual Salary: $147,252  
+- **APELHANS, MICHAEL D** – Police Officer – Full-time – Annual Salary: $115,158  
+- **ALEXANDER, TERRY** – Police Officer – Full-time – Annual Salary: $111,252  
+- **ADAMS, TIMOTHY J** – Police Officer (Assigned as Detective) – Full-time – Annual Salary: $144,792  
+- **ALEXANDER, DOMINIQUE A** – Police Officer – Full-time – Annual Salary: $111,252  
+- **ANDREWS, DAVID** – Police Officer – Full-time – Annual Salary: $115,158  
+
+Let me know if you'd like more details or a specific role (e.g., detective, sergeant, etc.).
+2026-04-10 09:23:45.041 | INFO     | __main__:run_agent:136 - Running agent for query: Who is earns the most in the city of Chicago , department 
+2026-04-10 09:24:07.686 | INFO     | __main__:run_agent:139 - Agent response: Based on the retrieved data, the highest-earning full-time employee in the City of Chicago is:
+
+**Sayeh Amirshaghaghi**  
+- **Job Title:** Chief Water Engineer  
+- **Department:** Department of Water Management  
+- **Full-time/Part-time:** Full-time  
+- **Annual Salary:** **$167,700.00**
+
+No employee in the results exceeds this amount.
+2026-04-10 09:24:09.161 | INFO     | __main__:run_agent:136 - Running agent for query: Labourers in Chicago
+2026-04-10 09:24:39.260 | INFO     | __main__:run_agent:139 - Agent response: Here are the Chicago city employees with job titles matching "labourer" or related labor roles:
+
+- **ARANDA, CLAUDIA**  
+  Job Title: INVESTIGATOR II - IG  
+  Department: OFFICE OF INSPECTOR GENERAL  
+  Full-time, Salary  
+  Annual Salary: $101,628.00  
+
+- **ARANDA, ARTHUR**  
+  Job Title: LIEUTENANT  
+  Department: CHICAGO FIRE DEPARTMENT  
+  Full-time, Salary  
+  Annual Salary: $152,010.00  
+
+- **AARON, JEFFERY M**  
+  Job Title: LIEUTENANT  
+  Department: CHICAGO POLICE DEPARTMENT  
+  Full-time, Salary  
+  Annual Salary: $165,624.00  
+
+- **ACCARDO, ANTHONY D**  
+  Job Title: FOREMAN OF CONSTRUCTION LABORERS  
+  Department: CHICAGO DEPARTMENT OF AVIATION  
+  Full-time, Hourly  
+  Hourly Rate: $52.50  
+  Annual Salary (calculated): $111,814.15  
+
+- **ALLEN, RYSHON C**  
+  Job Title: GENERAL FOREMAN OF LABORERS  
+  Department: CHICAGO DEPARTMENT OF AVIATION  
+  Full-time, Hourly  
+  Hourly Rate: $55.79  
+  Annual Salary (calculated): $111,814.15  
+
+- **ALEXANDER, CLEMMIE**  
+  Job Title: LABORER  
+  Department: CHICAGO DEPARTMENT OF TRANSPORTATION  
+  Full-time, Hourly  
+  Hourly Rate: $51.40  
+  Annual Salary (calculated): $111,814.15  
+
+- **ANGULO, CHRISTIAN**  
+  Job Title: GENERAL LABORER - DSS  
+  Department: DEPARTMENT OF STREETS AND SANITATION  
+  Full-time, Hourly  
+  Hourly Rate: $26.28  
+  Annual Salary (calculated): $111,814.15  
+
+- **ALFRED, TIARA M**  
+  Job Title: STATION LABORER  
+  Department: DEPARTMENT OF WATER MANAGEMENT  
+  Full-time, Salary  
+  Annual Salary: $57,479.40  
+
+- **ANDREWS, DANTRES M**  
+  Job Title: SANITATION LABORER  
+  Department: DEPARTMENT OF STREETS AND SANITATION  
+  Full-time, Hourly  
+  Hourly Rate: $35.84  
+  Annual Salary (calculated): $111,814.15  
+
+- **ANAYA, HECTOR**  
+  Job Title: GENERAL LABORER - DSS  
+  Department: DEPARTMENT OF STREETS AND SANITATION  
+  Full-time, Hourly  
+  Hourly Rate: $26.28  
+  Annual Salary (calculated): $111,814.15  
+
+- **ADEWOLE, KAREEM A**  
+  Job Title: CONSTRUCTION LABORER  
+  Department: DEPARTMENT OF WATER MANAGEMENT  
+  Full-time, Hourly  
+  Hourly Rate: $51.40  
+  Annual Salary (calculated): $111,814.15  
+
+Note: The roles of *Laborer*, *General Laborer*, *Sanitation Laborer*, *Construction Laborer*, *Station Laborer*, and *Foreman of Laborers* reflect hands-on manual work roles across departments like Streets and Sanitation, Transportation, Water Management, and Aviation.

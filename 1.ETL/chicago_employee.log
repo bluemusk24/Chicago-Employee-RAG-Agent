@@ -1,0 +1,16 @@
+2026-02-23 21:31:03.837 | INFO     | __main__:get_employee:6 - Fetch data for Employee Endpoint
+2026-02-23 21:42:42.326 | INFO     | __main__:get_employee:6 - Fetch data for Employee Endpoint
+2026-02-23 21:42:45.507 | INFO     | __main__:pagination:14 - Finished fetching all pages from: https://data.cityofchicago.org/resource/xzkq-xp2w.json
+2026-02-23 21:42:50.418 | INFO     | __main__:<module>:19 - Pipeline finished successfully. Loaded packages: ['1771904562.3109128']
+2026-02-26 20:39:35.264 | INFO     | __main__:get_employee:6 - Fetch data for Employee Endpoint
+2026-02-26 20:39:36.212 | INFO     | __main__:pagination:14 - Finished fetching all pages from: https://data.cityofchicago.org/resource/xzkq-xp2w.json
+2026-02-26 20:39:37.466 | INFO     | __main__:<module>:19 - Pipeline finished successfully. Loaded packages: ['1772159975.260743']
+2026-03-04 21:21:25.901 | INFO     | __main__:get_employee:6 - Fetch data for Employee Endpoint
+2026-03-04 21:21:27.350 | INFO     | __main__:pagination:14 - Finished fetching all pages from: https://data.cityofchicago.org/resource/xzkq-xp2w.json
+2026-03-04 21:21:29.093 | INFO     | __main__:<module>:19 - Pipeline finished successfully. Loaded packages: ['1772680885.860797']
+2026-03-04 21:34:52.514 | INFO     | __main__:get_employee:6 - Fetch data for Employee Endpoint
+2026-03-04 21:34:53.657 | INFO     | __main__:pagination:14 - Finished fetching all pages from: https://data.cityofchicago.org/resource/xzkq-xp2w.json
+2026-03-04 21:34:54.610 | INFO     | __main__:<module>:19 - Pipeline finished successfully. Loaded packages: ['1772681692.4770236']
+2026-03-04 21:39:58.998 | INFO     | __main__:get_employee:6 - Fetch data for Employee Endpoint
+2026-03-04 21:40:00.795 | INFO     | __main__:pagination:14 - Finished fetching all pages from: https://data.cityofchicago.org/resource/xzkq-xp2w.json
+2026-03-04 21:40:01.879 | INFO     | __main__:<module>:19 - Pipeline finished successfully. Loaded packages: ['1772681998.9703774']

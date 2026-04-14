@@ -1,0 +1,7 @@
+# Virtual environments
+.venv
+
+# API_KEYs and other secrets
+.env
+*.env
+
